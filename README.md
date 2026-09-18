@@ -1,4 +1,7 @@
-# TV Bro
+# TV Bro (Mareen Fire TV Edition)
+
+> **Fork / Clone Note:**
+> This repository is a customized fork/clone of [truefedex/tv-bro](https://github.com/truefedex/tv-bro) preconfigured for Fire TV Sticks (GeckoView default, integrated uBlock Origin filters, German streaming homepage tiles).
 
 Simple web browser optimized to use with TV remote
 
